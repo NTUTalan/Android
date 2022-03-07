@@ -1,0 +1,12 @@
+Question1.
+app:layout_constraintBottom_toTopOf="@+id/button_count"
+app:layout_constraintTop_toBottomOf="@+id/button_toast"
+
+Question2.
+app:layout_constraintLeft_toLeftOf="parent"
+
+Question3.
+public void callMethod(View view)
+
+Question4.
+Use the view parameter that is passed to the click handler with setBackgroundColor(): view.setBackgroundColor()
