@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:design:25.0.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/cb9d2e52d7d12a966d5ef18e36c9eeda/transformed/design-25.0.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cb9d2e52d7d12a966d5ef18e36c9eeda/transformed/design-25.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cb9d2e52d7d12a966d5ef18e36c9eeda/transformed/design-25.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/cb9d2e52d7d12a966d5ef18e36c9eeda/transformed/design-25.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/design/25.0.1/77436830728c7fe9af46eba42b1a9c6ae2d9bb4e/design-25.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/design/25.0.1/95430358efd43103957e9bb29037c963b3668c23/design-25.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
