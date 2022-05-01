@@ -1,0 +1,8 @@
+Question 1.
+NinePatchDrawable
+
+Question 2.
+StateListDrawable
+
+Question 3.
+Theme.AppCompat.Light.DarkActionBar
