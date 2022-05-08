@@ -1,0 +1,8 @@
+Question 1.
+Smallest screen width
+
+Question 2.
+res/values-fr-rCA/
+
+Question 3.
+res/values

@@ -1,0 +1,8 @@
+Question 1.
+Match a View, perform an action, and assert and verify the result.
+
+Question 2.
+@RunWith and @Test
+
+Question 3.
+onView() to load the View from the current View hierarchy.
