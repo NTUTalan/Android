@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">109590015_HW10-2</string>
+    <string-array name="picker">
+        <item name="http">http://</item>
+        <item name="https">https://</item>
+    </string-array>
+</resources>

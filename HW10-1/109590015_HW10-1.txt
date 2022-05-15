@@ -1,0 +1,11 @@
+Question 1.
+1.分成10份
+2.for迴圈
+
+Question 2.
+1.URL
+2.Integer
+3.Long
+
+Question 3.
+Implement publishProgress(). Call onProgressUpdate().
