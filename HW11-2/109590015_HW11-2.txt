@@ -1,0 +1,15 @@
+Question 1.
+You use notification channels to group multiple notifications so that the user can control the notifications' behavior.
+Notification channels are not yet available in the Android Support Library package.
+
+Question 2.
+NotificationManager.notify()
+
+Question 3.
+Click listener for the action button click event.
+
+Question 4.
+NotificationCompat.Builder.addAction()
+
+Question 5.
+PendingIntent.getService()
