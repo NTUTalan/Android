@@ -1,0 +1,10 @@
+Question1.
+onPause()
+
+Question2.
+onCreate()
+
+Question3.
+saveInstanceState - when frequently moving back and forth between activities
+SharedPreferences - when information for long time.
+you can use both if you need to frequently update data to view and to local storage.
